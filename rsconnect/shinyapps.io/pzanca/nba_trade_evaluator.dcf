@@ -1,0 +1,12 @@
+name: nba_trade_evaluator
+title: nba_trade_evaluator
+username:
+account: pzanca
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4330735
+bundleId: 4773335
+url: https://pzanca.shinyapps.io/nba_trade_evaluator/
+when: 1625064299.52986
+asMultiple: FALSE
+asStatic: FALSE
